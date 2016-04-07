@@ -1,0 +1,8 @@
+{
+    "jscodehints.detectedExclusions": [
+        "C:/Users/Sushil/Desktop/Ionic/conFusion/gulpfile.js",
+        "C:/Users/Sushil/Desktop/Ionic/conFusion/www/lib/ionic/js/ionic.min.js",
+        "C:/Users/Sushil/Desktop/Ionic/conFusion/www/lib/ionic/js/ionic.js",
+        "C:/Users/Sushil/Desktop/Ionic/conFusion/platforms/android/build/intermediates/assets/debug/www/lib/angular-ui-router/src/templateFactory.js"
+    ]
+}
